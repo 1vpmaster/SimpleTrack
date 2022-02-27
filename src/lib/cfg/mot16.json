@@ -1,0 +1,15 @@
+{
+    "root":"/dataset/Mix",
+    "train":
+    {
+        "mot17":"./data/mot16.train"
+    },
+    "test_emb":
+    {
+        "mot17":"./data/mot16.train"
+    },
+    "test":
+    {
+        "mot17":"./data/mot16.train"
+    }
+}
