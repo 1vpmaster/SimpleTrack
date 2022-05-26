@@ -147,19 +147,12 @@ A large part of the code is borrowed from [ifzhang/FairMOT](https://github.com/i
 ```
 @misc{https://doi.org/10.48550/arxiv.2203.03985,
   doi = {10.48550/ARXIV.2203.03985},
-  
   url = {https://arxiv.org/abs/2203.03985},
-  
   author = {Li, Jiaxin and Ding, Yan and Wei, Hualiang},
-  
   keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
   title = {SimpleTrack: Rethinking and Improving the JDE Approach for Multi-Object Tracking},
-  
   publisher = {arXiv},
-  
   year = {2022},
-  
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
