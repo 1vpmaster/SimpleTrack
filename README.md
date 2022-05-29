@@ -1,5 +1,5 @@
-# SimpleTrack: Rethinking and Improving a JDE fromApproach for Multi-Object Tracking
-A simple baseline for SimpleTrack:
+# SimpleTrack: Rethinking and Improving the JDE fromApproach for Multi-Object Tracking
+A simple baseline for [SimpleTrack](https://arxiv.org/abs/2203.03985v1):
 ![](assets/pipeline.png)
 > [**SimpleTrack: Rethinking and Improving a JDE fromApproach for Multi-Object Tracking**]
 ## Abstract
