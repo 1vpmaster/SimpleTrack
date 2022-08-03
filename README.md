@@ -1,4 +1,9 @@
 # SimpleTrack: Rethinking and Improving the JDE fromApproach for Multi-Object Tracking
+> [**SimpleTrack: Rethinking and Improving the JDE fromApproach for Multi-Object Tracking**](https://arxiv.org/abs/2203.03985v1)
+> 
+> Jiaxin Li, Yan Ding, Hua-Liang Wei, Yutong Zhang and Wenxiang Lin
+> 
+> *[arXiv 2203.03985v1](https://arxiv.org/abs/2203.03985v1)*
 A simple baseline for [SimpleTrack](https://arxiv.org/abs/2203.03985v1):
 ![](assets/pipeline.png)
 > [**SimpleTrack: Rethinking and Improving a JDE fromApproach for Multi-Object Tracking**]
