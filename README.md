@@ -22,6 +22,8 @@ which utilizes a decouple method for objects detection and Re-identity
 and fuses BYTE and EG matrix for tracking.
 
 ## News
+* (2022.08.03) Our paper is accepted by Sensors!
+* (2022.03.08) Our method gets the sota results among the JDE-based methods!
 * TODO
 
 ## Tracking performance
