@@ -25,6 +25,9 @@ and fuses BYTE and EG matrix for tracking.
 * (2022.08.03) Our paper is accepted by Sensors!
 * (2022.03.08) Our method gets the sota results among the JDE-based methods and the arxiv preprint of SimpleTrack is released.
 * TODO
+## Benchmark Performance
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/simpletrack-rethinking-and-improving-the-jde/multi-object-tracking-on-mot17)](https://paperswithcode.com/sota/multi-object-tracking-on-mot17?p=simpletrack-rethinking-and-improving-the-jde)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/simpletrack-rethinking-and-improving-the-jde/multi-object-tracking-on-mot20-1)](https://paperswithcode.com/sota/multi-object-tracking-on-mot20-1?p=simpletrack-rethinking-and-improving-the-jde)
 
 ## Tracking performance
 ### Results on other JDE methods
