@@ -1,5 +1,5 @@
-# SimpleTrack: Rethinking and Improving the JDE fromApproach for Multi-Object Tracking
-> [**SimpleTrack: Rethinking and Improving the JDE fromApproach for Multi-Object Tracking**](https://arxiv.org/abs/2203.03985v1)
+# SimpleTrack: Rethinking and Improving the JDE Approach for Multi-Object Tracking
+> [**SimpleTrack: Rethinking and Improving the JDE Approach for Multi-Object Tracking**](https://arxiv.org/abs/2203.03985v1)
 > 
 > Jiaxin Li, Yan Ding, Hua-Liang Wei, Yutong Zhang and Wenxiang Lin
 > 
@@ -7,7 +7,7 @@
 
 A simple baseline for [SimpleTrack](https://arxiv.org/abs/2203.03985v1):
 ![](assets/pipeline.png)
-> [**SimpleTrack: Rethinking and Improving a JDE fromApproach for Multi-Object Tracking**]
+> [**SimpleTrack: Rethinking and Improving the JDE Approach for Multi-Object Tracking**]
 ## Abstract
 Joint detection and embedding (JDE) methods usually estimate bounding boxes and embedding features of objects with a single
 network in Multi-Object Tracking (MOT). Most JDE methods improve
