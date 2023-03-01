@@ -167,4 +167,20 @@ A large part of the code is borrowed from [ifzhang/FairMOT](https://github.com/i
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
+```
+@Article{s22155863,
+AUTHOR = {Li, Jiaxin and Ding, Yan and Wei, Hua-Liang and Zhang, Yutong and Lin, Wenxiang},
+TITLE = {SimpleTrack: Rethinking and Improving the JDE Approach for Multi-Object Tracking},
+JOURNAL = {Sensors},
+VOLUME = {22},
+YEAR = {2022},
+NUMBER = {15},
+ARTICLE-NUMBER = {5863},
+URL = {https://www.mdpi.com/1424-8220/22/15/5863},
+PubMedID = {35957422},
+ISSN = {1424-8220},
+ABSTRACT = {Joint detection and embedding (JDE) methods usually fuse the target motion information and appearance information as the data association matrix, which could fail when the target is briefly lost or blocked in multi-object tracking (MOT). In this paper, we aim to solve this problem by proposing a novel association matrix, the Embedding and GioU (EG) matrix, which combines the embedding cosine distance and GioU distance of objects. To improve the performance of data association, we develop a simple, effective, bottom-up fusion tracker for re-identity features, named SimpleTrack, and propose a new tracking strategy which can mitigate the loss of detection targets. To show the effectiveness of the proposed method, experiments are carried out using five different state-of-the-art JDE-based methods. The results show that by simply replacing the original association matrix with our EG matrix, we can achieve significant improvements in IDF1, HOTA and IDsw metrics, and increase the tracking speed of these methods by around 20%. In addition, our SimpleTrack has the best data association capability among the JDE-based methods, e.g., 61.6 HOTA and 76.3 IDF1, on the test set of MOT17 with 23 FPS running speed on a single GTX2080Ti GPU.},
+DOI = {10.3390/s22155863}
+}
+```
 
